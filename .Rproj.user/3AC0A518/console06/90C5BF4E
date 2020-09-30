@@ -1,0 +1,14 @@
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+]0;/Volumes/Nuvem/OneDrive/Documentos/r-projects/apostila-ml[?1034hAir-de-Wlademir:apostila-ml wrprates$ [KAir-de-Wlademir:apostila-ml wrprates$ git config --global user.name "wrprates"
+]0;/Volumes/Nuvem/OneDrive/Documentos/r-projects/apostila-mlAir-de-Wlademir:apostila-ml wrprates$ git config --global user.email "wrprates@yahoo.com"
+]0;/Volumes/Nuvem/OneDrive/Documentos/r-projects/apostila-mlAir-de-Wlademir:apostila-ml wrprates$ ls
+_navbar.html		apostila.Rmd		images
+_site.yml		apostila.html		main.R
+apostila-ml.Rproj	favicon.htm		www
+]0;/Volumes/Nuvem/OneDrive/Documentos/r-projects/apostila-mlAir-de-Wlademir:apostila-ml wrprates$ git init
+Initialized empty Git repository in /Volumes/Nuvem/OneDrive/Documentos/r-projects/apostila-ml/.git/
+]0;/Volumes/Nuvem/OneDrive/Documentos/r-projects/apostila-mlAir-de-Wlademir:apostila-ml wrprates$ git remote add origin https://gitlab.com/academico/apostila-ml.gi t
+]0;/Volumes/Nuvem/OneDrive/Documentos/r-projects/apostila-mlAir-de-Wlademir:apostila-ml wrprates$ git add .
