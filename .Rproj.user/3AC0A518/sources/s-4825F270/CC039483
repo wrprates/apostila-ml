@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1601508739326.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1910216993",
+    "id" : "CC039483",
+    "lastKnownWriteTime" : 1601509584,
+    "last_content_update" : 1601509584229,
+    "path" : "/Volumes/Nuvem/OneDrive/Documentos/r-projects/apostila-ml/www/estilos.css",
+    "project_path" : "www/estilos.css",
+    "properties" : {
+        "cursorPosition" : "104,29",
+        "scrollLine" : "91"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "css"
+}

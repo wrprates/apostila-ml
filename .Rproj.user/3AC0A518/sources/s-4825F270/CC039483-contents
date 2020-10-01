@@ -1,0 +1,151 @@
+/*@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');*/
+
+/* Body */ 
+
+body {
+    font-size: 16px;
+    color: #666666;
+    font-weight: 300;
+    line-height: 1.6;
+}
+
+
+h1 {
+    font-family: 'Roboto';
+    font-size: 26px;
+    color: #666666;
+    font-weight: 700;
+    padding: 2em 0 0 0;
+}
+
+h1.title {
+    font-family: 'Roboto';
+    font-size: 32px;
+    font-weight: 700;
+    padding: 25px 0 15px 0;
+}
+
+
+h2 {
+    font-family: 'Roboto';
+    font-size: 20px;
+    color: #666666;
+    font-weight: 500;
+    padding: 25px 0 0 0;
+
+}
+
+.section h3 {
+    padding-top: 0 ;
+    margin-top: 0 ;
+    font-size: 18px;
+    padding: 1.2em 0 .5em 0;
+    font-weight: 500;
+}
+
+h3 {
+    font-family: 'Roboto';
+    font-size: 18px;
+    padding: 1.2em 0 .5em 0;
+    font-weight: 400;
+}
+
+
+.section  {
+    padding-top: 0 ;
+    margin-top: 0 ;
+    padding: 1.2em 0 .5em 0;
+}
+
+h4 {   
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 500;
+}
+
+h5 {   
+    font-family: 'Arial';
+    font-size: 16px;
+    font-weight: 700;
+}
+
+
+@media only screen and (min-width: 768px) {
+.executive_summary {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    padding: 0 20px 1.5em 45px;
+  }
+}
+
+
+/* Datatable, bootstrap style */
+table.dataTable {
+  font-size: 16px;
+}
+
+.pagination>li {
+    font-size: 16px;
+}
+
+.pagination>.active>a, .pagination>.active>a:focus, .pagination>.active>a:hover, .pagination>.active>span, .pagination>.active>span:focus, .pagination>.active>span:hover {
+    z-index: 2;
+    color: #fff;
+    cursor: default;
+    background-color: #fff;
+    border-color: #f2f2f2;
+}
+
+
+
+/* TOC */
+.list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
+    z-index: 2;
+    color: #fff;
+    background-color: #e67e5e;
+    border-color: #444;
+}
+
+.tocify {
+  border: 1px solid #cccccc;
+}
+
+li.tocify-item.list-group-item {
+  font-size: 14px;
+}
+
+/* LINKS and tabs */
+
+a {
+    color: #337ab7;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #337ab7;
+}
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
+    color: #fff;
+    background-color: #808080;
+}
+
+/* NAVBAR */
+.navbar-default {
+    background-color: #fff;
+    opacity: 0.9;
+}
+
+/* Textos da Navbar */
+.navbar-default .navbar-brand {
+    color: #666;
+}
+
+/* Div especial */
+.specialbox {
+  padding: 1em;
+  background: "#f5f5f5";
+  color: "#333333";
+  border: 1px solid #ccc;
+  border-radius: 10px;
+}

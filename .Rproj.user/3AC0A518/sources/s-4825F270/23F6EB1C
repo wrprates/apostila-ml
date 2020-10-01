@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1601507713751.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "23F6EB1C",
+    "lastKnownWriteTime" : 1601508670,
+    "last_content_update" : 1601508670949,
+    "path" : "/Volumes/Nuvem/OneDrive/Documentos/r-projects/apostila-ml/main.R",
+    "project_path" : "main.R",
+    "properties" : {
+        "cursorPosition" : "50,0",
+        "scrollLine" : "35"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

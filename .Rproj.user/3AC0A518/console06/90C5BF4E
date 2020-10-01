@@ -12,3 +12,59 @@ apostila-ml.Rproj	favicon.htm		www
 Initialized empty Git repository in /Volumes/Nuvem/OneDrive/Documentos/r-projects/apostila-ml/.git/
 ]0;/Volumes/Nuvem/OneDrive/Documentos/r-projects/apostila-mlAir-de-Wlademir:apostila-ml wrprates$ git remote add origin https://gitlab.com/academico/apostila-ml.gi t
 ]0;/Volumes/Nuvem/OneDrive/Documentos/r-projects/apostila-mlAir-de-Wlademir:apostila-ml wrprates$ git add .
+]0;/Volumes/Nuvem/OneDrive/Documentos/r-projects/apostila-mlAir-de-Wlademir:apostila-ml wrprates$ git commit -m "P[Kfirst commit"
+[master (root-commit) 406a334] first commit
+ 42 files changed, 11429 insertions(+)
+ create mode 100644 .Rproj.user/3AC0A518/console06/90C5BF4E
+ create mode 100644 .Rproj.user/3AC0A518/console06/90C5BF4E.env
+ create mode 100644 .Rproj.user/3AC0A518/console06/INDEX001
+ create mode 100644 .Rproj.user/3AC0A518/sources/s-4825F270/lock_file
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names
+ create mode 100644 .__navbar.html
+ create mode 100644 ._apostila.html
+ create mode 100644 _navbar.html
+ create mode 100644 _site.yml
+ create mode 100644 apostila-ml.Rproj
+ create mode 100644 apostila.Rmd
+ create mode 100644 apostila.html
+ create mode 100644 favicon.htm
+ create mode 100644 images/._ROC_1.png
+ create mode 100644 images/._ROC_2.png
+ create mode 100644 images/._ROC_3.png
+ create mode 100644 images/._ROC_4.png
+ create mode 100644 images/._decision_tree_structure.png
+ create mode 100644 images/._entropia.png
+ create mode 100644 images/._etapas_projeto.png
+ create mode 100644 images/._flow_ai.pptx
+ create mode 100644 images/._flow_ml.png
+ create mode 100644 images/._flow_ml_mine.png
+ create mode 100644 images/._rede_neural_1.png
+ create mode 100644 images/._wlad.gif
+ create mode 100644 images/ROC_1.png
+ create mode 100644 images/ROC_2.png
+ create mode 100644 images/ROC_3.png
+ create mode 100644 images/ROC_4.png
+ create mode 100644 images/decision_tree_structure.png
+ create mode 100644 images/entropia.png
+ create mode 100644 images/etapas_projeto.png
+ create mode 100644 images/flow_ai.pptx
+ create mode 100644 images/flow_ml.png
+ create mode 100644 images/flow_ml_mine.png
+ create mode 100644 images/rede_neural_1.png
+ create mode 100644 images/wlad.gif
+ create mode 100644 main.R
+ create mode 100644 www/estilos.css
+ create mode 100644 www/favicon.htm
+ create mode 100644 www/favicon.png
+ create mode 100644 www/logo_sustentare.png
+]0;/Volumes/Nuvem/OneDrive/Documentos/r-projects/apostila-mlAir-de-Wlademir:apostila-ml wrprates$ git push -u origin master
+Enumerating objects: 52, done.
+Counting objects:   1% (1/52)   Counting objects:   3% (2/52)   Counting objects:   5% (3/52)   Counting objects:   7% (4/52)   Counting objects:   9% (5/52)   Counting objects:  11% (6/52)   Counting objects:  13% (7/52)   Counting objects:  15% (8/52)   Counting objects:  17% (9/52)   Counting objects:  19% (10/52)   Counting objects:  21% (11/52)   Counting objects:  23% (12/52)   Counting objects:  25% (13/52)   Counting objects:  26% (14/52)   Counting objects:  28% (15/52)   Counting objects:  30% (16/52)   Counting objects:  32% (17/52)   Counting objects:  34% (18/52)   Counting objects:  36% (19/52)   Counting objects:  38% (20/52)   Counting objects:  40% (21/52)   Counting objects:  42% (22/52)   Counting objects:  44% (23/52)   Counting objects:  46% (24/52)   Counting objects:  48% (25/52)   Counting objects:  50% (26/52)   Counting objects:  51% (27/52)   Counting objects:  53% (28/52)   Counting objects:  55% (29/52)   Counting objects:  57% (30/52)   Counting objects:  59% (31/52)   Counting objects:  61% (32/52)   Counting objects:  63% (33/52)   Counting objects:  65% (34/52)   Counting objects:  67% (35/52)   Counting objects:  69% (36/52)   Counting objects:  71% (37/52)   Counting objects:  73% (38/52)   Counting objects:  75% (39/52)   Counting objects:  76% (40/52)   Counting objects:  78% (41/52)   Counting objects:  80% (42/52)   Counting objects:  82% (43/52)   Counting objects:  84% (44/52)   Counting objects:  86% (45/52)   Counting objects:  88% (46/52)   Counting objects:  90% (47/52)   Counting objects:  92% (48/52)   Counting objects:  94% (49/52)   Counting objects:  96% (50/52)   Counting objects:  98% (51/52)   Counting objects: 100% (52/52)   Counting objects: 100% (52/52), done.
+Delta compression using up to 4 threads
+Compressing objects:   2% (1/47)   Compressing objects:   4% (2/47)   Compressing objects:   6% (3/47)   Compressing objects:   8% (4/47)   Compressing objects:  10% (5/47)   Compressing objects:  12% (6/47)   Compressing objects:  14% (7/47)   Compressing objects:  17% (8/47)   Compressing objects:  19% (9/47)   Compressing objects:  21% (10/47)   Compressing objects:  23% (11/47)   Compressing objects:  25% (12/47)   Compressing objects:  27% (13/47)   Compressing objects:  29% (14/47)   Compressing objects:  31% (15/47)   Compressing objects:  34% (16/47)   Compressing objects:  36% (17/47)   Compressing objects:  38% (18/47)   Compressing objects:  40% (19/47)   Compressing objects:  42% (20/47)   Compressing objects:  44% (21/47)   Compressing objects:  46% (22/47)   Compressing objects:  48% (23/47)   Compressing objects:  51% (24/47)   Compressing objects:  53% (25/47)   Compressing objects:  55% (26/47)   Compressing objects:  57% (27/47)   Compressing objects:  59% (28/47)   Compressing objects:  61% (29/47)   Compressing objects:  63% (30/47)   Compressing objects:  65% (31/47)   Compressing objects:  68% (32/47)   Compressing objects:  70% (33/47)   Compressing objects:  72% (34/47)   Compressing objects:  74% (35/47)   Compressing objects:  76% (36/47)   Compressing objects:  78% (37/47)   Compressing objects:  80% (38/47)   Compressing objects:  82% (39/47)   Compressing objects:  85% (40/47)   Compressing objects:  87% (41/47)   Compressing objects:  89% (42/47)   Compressing objects:  91% (43/47)   Compressing objects:  93% (44/47)   Compressing objects:  95% (45/47)   Compressing objects:  97% (46/47)   Compressing objects: 100% (47/47)   Compressing objects: 100% (47/47), done.
+Writing objects:   1% (1/52)   Writing objects:   3% (2/52)   Writing objects:   5% (3/52)   Writing objects:   7% (4/52)   Writing objects:   9% (5/52)   Writing objects:  11% (6/52)   Writing objects:  13% (7/52)   Writing objects:  15% (8/52)   Writing objects:  17% (9/52)   Writing objects:  19% (10/52)   Writing objects:  21% (11/52)   Writing objects:  23% (12/52)   Writing objects:  25% (13/52)   Writing objects:  28% (15/52)   Writing objects:  30% (16/52)   Writing objects:  32% (17/52)   Writing objects:  34% (18/52)   Writing objects:  36% (19/52)   Writing objects:  38% (20/52)   Writing objects:  38% (20/52), 1.10 MiB | 283.00 KiB/s   Writing objects:  38% (20/52), 1.59 MiB | 364.00 KiB/s   Writing objects:  40% (21/52), 2.16 MiB | 442.00 KiB/s   Writing objects:  42% (22/52), 2.16 MiB | 442.00 KiB/s   Writing objects:  44% (23/52), 2.16 MiB | 442.00 KiB/s   Writing objects:  50% (26/52), 2.16 MiB | 442.00 KiB/s   Writing objects:  51% (27/52), 2.16 MiB | 442.00 KiB/s   Writing objects:  53% (28/52), 2.16 MiB | 442.00 KiB/s   Writing objects:  55% (29/52), 2.16 MiB | 442.00 KiB/s   Writing objects:  57% (30/52), 2.16 MiB | 442.00 KiB/s   Writing objects:  59% (31/52), 2.16 MiB | 442.00 KiB/s   Writing objects:  61% (32/52), 2.16 MiB | 442.00 KiB/s   Writing objects:  63% (33/52), 2.16 MiB | 442.00 KiB/s   Writing objects:  65% (34/52), 2.16 MiB | 442.00 KiB/s   Writing objects:  67% (35/52), 2.16 MiB | 442.00 KiB/s   Writing objects:  69% (36/52), 2.16 MiB | 442.00 KiB/s   Writing objects:  71% (37/52), 2.16 MiB | 442.00 KiB/s   Writing objects:  73% (38/52), 2.16 MiB | 442.00 KiB/s   Writing objects:  75% (39/52), 2.16 MiB | 442.00 KiB/s   Writing objects:  76% (40/52), 3.03 MiB | 565.00 KiB/s   Writing objects:  78% (41/52), 3.03 MiB | 565.00 KiB/s   Writing objects:  80% (42/52), 3.03 MiB | 565.00 KiB/s   Writing objects:  82% (43/52), 3.03 MiB | 565.00 KiB/s   Writing objects:  84% (44/52), 3.03 MiB | 565.00 KiB/s   Writing objects:  86% (45/52), 3.03 MiB | 565.00 KiB/s   Writing objects:  88% (46/52), 3.03 MiB | 565.00 KiB/s   Writing objects:  90% (47/52), 3.03 MiB | 565.00 KiB/s   Writing objects:  92% (48/52), 3.03 MiB | 565.00 KiB/s   Writing objects:  94% (49/52), 3.03 MiB | 565.00 KiB/s   Writing objects:  96% (50/52), 3.03 MiB | 565.00 KiB/s   Writing objects:  98% (51/52), 3.03 MiB | 565.00 KiB/s   Writing objects: 100% (52/52), 3.03 MiB | 565.00 KiB/s   Writing objects: 100% (52/52), 3.62 MiB | 644.00 KiB/s, done.
+Total 52 (delta 12), reused 0 (delta 0)
+To https://gitlab.com/academico/apostila-ml.git
+ * [new branch]      master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+]0;/Volumes/Nuvem/OneDrive/Documentos/r-projects/apostila-mlAir-de-Wlademir:apostila-ml wrprates$ [KAir-de-Wlademir:apostila-ml wrprates$ git add .

@@ -42,10 +42,10 @@ analysis_name <- "apostila"
 # Gerar relatório da apostila
 rmarkdown::render(
   input = 
-    paste0(project_root_path,"/00-apostila/", analysis_name,".Rmd"), 
+    paste0(project_root_path,"/", analysis_name,".Rmd"), 
   encoding = encoding, clean = T,
   output_file =
-    paste0(project_root_path,"/00-apostila/", analysis_name,".html"))
+    paste0(project_root_path,"/", analysis_name,".html"))
 
 
 # Datasets de exemplo:

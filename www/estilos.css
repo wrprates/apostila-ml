@@ -92,8 +92,8 @@ table.dataTable {
     z-index: 2;
     color: #fff;
     cursor: default;
-    background-color: #666;
-    border-color: #666;
+    background-color: #fff;
+    border-color: #f2f2f2;
 }
 
 
@@ -102,7 +102,7 @@ table.dataTable {
 .list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
     z-index: 2;
     color: #fff;
-    background-color: #0b2d72;
+    background-color: #e67e5e;
     border-color: #444;
 }
 
@@ -132,13 +132,13 @@ a:hover {
 
 /* NAVBAR */
 .navbar-default {
-    background-color: #0b2d72;
+    background-color: #fff;
     opacity: 0.9;
 }
 
 /* Textos da Navbar */
 .navbar-default .navbar-brand {
-    color: #fff;
+    color: #666;
 }
 
 /* Div especial */

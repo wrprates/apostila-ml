@@ -10,10 +10,9 @@ options(scipen=999, warn = -1)
 ```
 
 # Introdução
+*Machine Learning*, ou Aprendizado de Máquina, é uma área muito ampla e bastante complexa. Contudo, é também um campo com infinitas possibilidades de uso. Nos negócios não é diferente, é possível aplicar machine learning de diversas maneiras.
 
-*Machine Learning*, ou Aprendizado de Máquina, é uma área muito ampla e bastante complexa. Contudo, é também um campo com infinitas possibildades de uso. Nos negócios não é diferente, é possível aplicar *machine learning* de diversas maneiras. 
-
-A ideia desta apostila é **trazer os conceitos básicos para alguns dos principais modelos de aprendizado de máquina e na sequência mostrar como implementá-los**. Não é propósito deste material entrar a fundo nos detalhes de cada modelo, pois a proposta deste material é focar na compreensão dos conceitos e dos casos de usos.
+O objetivo desta apostila é **trazer os conceitos básicos para alguns dos principais modelos de aprendizado de máquina e na sequência mostrar como implementá-los**. Não é propósito deste material entrar a fundo nos detalhes de cada modelo, pois a proposta é focar na compreensão dos conceitos e dos casos de usos para rápida aplicação na área de negócios.
 
 ## Sobre o autor {.unnumbered}
 
