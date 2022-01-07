@@ -11,24 +11,31 @@ encoding <- "UTF-8"
 # Carregando pacotes
 pkgs <- list()
 pkgs$cran <- c(
+  "bookdown",
+  "broom",
+  "caret", # métricas de ML
   "devtools",
   "dplyr",
+  "DT",
   "ggplot2",
   "highcharter",
+  "neuralnet",
+  "ranger",
   "readr", # leitura de arquivos
-  "caret", # métricas de ML
-  "broom",
-  "pROC",
   "rpart",
   "rpart.plot",
-  "xtable",
-  "ranger"
+  "pROC",
+  "xtable"
 )
 
 pkgs$others <- c(
   #"ggbiplot"#,
   #"prettydoc"
 )
+
+# First time, install packages
+# lapply(pkgs$cran, install.packages, character.only = TRUE)
+# lapply(pkgs$others, install.packages, character.only = TRUE)
 
 lapply(pkgs$cran, require, character.only = TRUE)
 lapply(pkgs$others, require, character.only = TRUE)
