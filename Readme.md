@@ -1,3 +1,5 @@
+# Apostila de *Machine Learning*
+
 Este projeto contém uma apostila de *machine learning*.
 
 A última versão em .html pode ser vista no arquivo `apostila.html`.
