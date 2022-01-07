@@ -22,9 +22,14 @@ O objetivo desta apostila é **trazer os conceitos básicos para alguns dos prin
 
 </div>
 
-Wlademir Ribeiro Prates atualmente é Gerente na Ernst & Young (EY), atuando com ciência de dados na equipe de People Analytics na área de People Advisory Services. Trabalha com projetos em grandes empresas voltados a RH. Entre os temas dos projetos estão: análise de turnover, performance, inconsistências em cobranças de planos de saúde, entre outros.
+Cientista de Dados Senior com experiência em projetos de análise de dados para grandes empresas brasileiras e do exterior. Experiência com atuação tanto em consultoria como membro do time de dados da empresa. Alguns exemplos dos temas já abordados em projetos comerciais:
 
-Foi Cientista de Dados na Aquarela Advanced Analytics, tendo participado em projetos de Data Analytics nas mais diversas áreas, como manutenção de aeronaves, logística (redução de falhas em entregas), gestão de estoques, redução de churn.
+- *Churn* voluntário (clientes que cancelam assinatura).
+- *Turnover* voluntário (funcionários que pedem demissão).
+- Inconsistências em cobranças de planos de saúde.
+- Gestão de estoques.
+- Logística (redução de falhas em entregas).
+- Manutenção de aeronaves, entre outros.
 
 Doutor e Mestre em Finanças pelo Programa de Pós-Graduação em Administração da Universidade Federal de Santa Catarina. Bacharel em Administração de Empresas pela Faculdade Anhanguera de Passo Fundo.
 
@@ -34,10 +39,15 @@ Professor universitário e de programas de MBA tanto em disciplinas voltadas par
 
 Contatos:
 
-- [CV Lattes](http://lattes.cnpq.br/5885808985726209)
 - [LinkedIn](https://www.linkedin.com/in/wlademir-ribeiro-prates/)
+- [Site pessoal](https://cienciaenegocios.com/)
+- [CV Lattes](http://lattes.cnpq.br/5885808985726209)
+- [Gitlab](https://gitlab.com/wrprates)
+- [Github](https://github.com/wrprates/)
 
 # Setup para acompanhar
+
+Você irá encontrar o repositório desta apostila [neste link no Github](https://github.com/wrprates/apostila-ml).
 
 Os scripts com os códigos que rodam cada exemplo nesta apostila são escritos na linguagem R. Para rodar os códigos em R utiliza-se o software [RStudio](https://rstudio.com/). 
 
